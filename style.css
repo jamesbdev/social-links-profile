@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'inter', sans-serif;
+    background: var(--grey-dark);
+    color: white;
+    
+}
+
+:root {
+    --font-size-normal: 14px;
+    --color-green: hsl(75, 94%, 57%);
+    --font-weight-normal: 400;
+    --font-weight-medium: 600;
+    --font-weight-bold: 700;
+    --grey-light: hsl(0, 0%, 20%);
+    --grey-dark: hsl(0, 0%, 8%);
+    --grey-medium: hsl(0, 0%, 12%);
+    
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
